@@ -4,3 +4,11 @@ C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\bin\Debug\FrameworkDemo.pdb
 C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.csprojResolveAssemblyReference.cache
 C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.exe
 C:\dev\dotnet-dev\DotNetDemos\FrameworkDemo\obj\Debug\FrameworkDemo.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\bin\Debug\FrameworkDemo.exe.config
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\bin\Debug\FrameworkDemo.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\bin\Debug\FrameworkDemo.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\obj\Debug\FrameworkDemo.csproj.AssemblyReference.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\obj\Debug\FrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\obj\Debug\FrameworkDemo.csproj.CoreCompileInputs.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\obj\Debug\FrameworkDemo.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\FrameworkDemo\obj\Debug\FrameworkDemo.pdb

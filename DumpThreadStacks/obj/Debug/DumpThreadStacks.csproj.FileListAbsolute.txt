@@ -6,3 +6,14 @@ C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.R
 C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.Runtime.xml
 C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\obj\Debug\DumpThreadStacks.exe
 C:\dev\dotnet-dev\DotNetDemos\DumpThreadStacks\obj\Debug\DumpThreadStacks.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\bin\Debug\DumpThreadStacks.exe.config
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\bin\Debug\DumpThreadStacks.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\bin\Debug\DumpThreadStacks.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.csproj.AssemblyReference.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.csproj.SuggestedBindingRedirects.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.csproj.CoreCompileInputs.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.csproj.CopyComplete
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\DumpThreadStacks\obj\Debug\DumpThreadStacks.pdb

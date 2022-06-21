@@ -6,3 +6,13 @@ C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\bin\Debug\System.Net.H
 C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csprojResolveAssemblyReference.cache
 C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.exe
 C:\dev\dotnet-dev\DotNetDemos\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.exe.config
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\bin\Debug\MultipartHttpRequestHandler.pdb
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\bin\Debug\System.Net.Http.Formatting.xml
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csproj.AssemblyReference.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csproj.SuggestedBindingRedirects.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csproj.CoreCompileInputs.cache
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.csproj.CopyComplete
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.exe
+C:\dev\gitrepos\dotnetdemo\dotnetdemo\MultipartHttpRequestHandler\obj\Debug\MultipartHttpRequestHandler.pdb
